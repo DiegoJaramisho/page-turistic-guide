@@ -1,0 +1,19 @@
+/*
+1. Posicionamiento
+2. Modelo de caja
+3. Tipografia
+4. Visuales
+5. Otros 
+ */
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    --sky-blue:#ADC5D9;
+    --green-jungle: #222601;
+    --green-military: #575914;
+    --desert-cofee: #A68365;
+    --desert-dark: #734230;
+}
